@@ -1,0 +1,9 @@
+Criar ferramenta que cria casos de testes e crie uma lista de execuções onde o usuário , e partir da lista após realizar a execução salvar a pipe line e enviar um relatório para o e-mail do usuário
+
+Automação dos casos de teste a partir dos testes cadastrados
+
+
+Dash - Poder visualizar insites com base nas pipelines de execuções dos testes
+
+
+api https://restful-api.dev
