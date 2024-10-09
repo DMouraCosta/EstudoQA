@@ -5,5 +5,24 @@ Automação dos casos de teste a partir dos testes cadastrados
 
 Dash - Poder visualizar insites com base nas pipelines de execuções dos testes
 
+------------------------------------------------------------------------------------------------------------
 
 api https://restful-api.dev
+
+Criar workspace
+
+Criar colection
+
+------------------------------------------------------------------------------------------------------------
+5 PASSOS PARA AUTOMATIZAR API ou WEB COM CYPRESS
+
+Pré requisitos:
+
+NodeJS instalado
+VSCode
+Git Bash[Quem usa Windows]
+
+1 - Criar projeto - npm init -y 
+2 - Instalar Cypress - npm install cypress 
+3 - Iniciar Cypress para configurar - npx cypress open 
+4 - Criar arquivo de testes 5 - Criar cenáriosgit
